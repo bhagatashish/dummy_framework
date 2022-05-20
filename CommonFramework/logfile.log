@@ -1,0 +1,12 @@
+2022-04-12 09:18:01,235 : test_crossBrowser : INFO : ashish
+2022-04-12 09:18:01,243 : test_crossBrowser : INFO : mohit
+2022-04-12 09:18:01,243 : test_crossBrowser : INFO : mohit
+2022-04-12 09:18:01,251 : test_crossBrowser : INFO : neeru
+2022-04-12 09:18:01,251 : test_crossBrowser : INFO : neeru
+2022-04-12 09:18:01,251 : test_crossBrowser : INFO : neeru
+2022-04-12 09:19:13,815 : test_crossBrowser : INFO : ('chrome', 'ashish', 'bhagat')
+2022-04-12 09:19:13,823 : test_crossBrowser : INFO : ('firefox', 'mohit', 'bhagat')
+2022-04-12 09:19:13,823 : test_crossBrowser : INFO : ('firefox', 'mohit', 'bhagat')
+2022-04-12 09:19:13,830 : test_crossBrowser : INFO : ('ie', 'neeru')
+2022-04-12 09:19:13,830 : test_crossBrowser : INFO : ('ie', 'neeru')
+2022-04-12 09:19:13,830 : test_crossBrowser : INFO : ('ie', 'neeru')
